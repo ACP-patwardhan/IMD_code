@@ -1,9 +1,4 @@
-/*
- Authors: Shail Vaidya, Saarthak Modi, Harsh Pardeshi, Digvijay Singh
- This code was written for the prototype developed for the Indian
- Meteorological Department, Pune.
- As part of the project for Practice School-1.
- */
+
 #include<math.h>
 /* Windwane Variables*/
 const int pinWindDir = A0;            // Analog input pin for Windwane
